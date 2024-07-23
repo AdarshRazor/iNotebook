@@ -2,8 +2,8 @@
 
 A cloud-based sticky note app designed for speed and simplicity. With secure login and signup features powered by an exclusive invite code system, this app ensures that each user enjoys a private, individual space for their notes, free from prying eyes. Its minimalist design and lightning-fast performance make it the perfect tool for capturing and organizing your thoughts on the go.
 
-<img src="[drawing.jpg](https://github.com/user-attachments/assets/d1eaea99-cea4-406c-8317-47bcec35fd49)" alt="drawing" width="50%"/>
-<img src="[drawing.jpg](https://github.com/user-attachments/assets/faa2edc1-2de9-467c-b5d4-fb96f1c1a604)" alt="drawing" width="50%"/>
+<img src="https://github.com/user-attachments/assets/d1eaea99-cea4-406c-8317-47bcec35fd49" alt="drawing" width="50%"/>
+<img src="https://github.com/user-attachments/assets/faa2edc1-2de9-467c-b5d4-fb96f1c1a604" alt="drawing" width="50%"/>
 
 ## Setting up the environment
 
