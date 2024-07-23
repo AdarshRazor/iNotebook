@@ -8,7 +8,7 @@ function Signup(props) {
   const handSubmit = async (e) => {
     e.preventDefault();
 
-    if (credentials.invite !== "244466666") {
+    if (credentials.invite !== "INVITE50") {
       props.showAlert("Invalid invite code", "danger");
       return; // Stop form submission if invite code is incorrect
     }
